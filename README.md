@@ -6,19 +6,8 @@
 
 ## 关于本书
 
-- [在线阅读](https://ts.xcatliu.com/)（部署在 [GitBook](https://www.gitbook.com/book/xcatliu/typescript-tutorial/details) 上，可能需要翻墙）
-- [在线阅读（GitHub 版）](https://github.com/xcatliu/typescript-tutorial/blob/master/README.md)
-- [GitHub 地址][GitHub]
-- 作者：[xcatliu](https://github.com/xcatliu/)
-- 官方 QQ 群：[加入 QQ 群 767142358](https://jq.qq.com/?_wv=1027&k=5nkkFCl)
-
-本书是作者在学习 [TypeScript] 后整理的学习笔记。
-
-随着对 TypeScript 理解的加深和 TypeScript 社区的发展，本书也会做出相应的更新，欢迎大家 [Star 收藏][GitHub]。
-
-- 发现文章内容有问题，可以直接在页面下方评论
-- 对项目的建议，可以[提交 issue](https://github.com/xcatliu/typescript-tutorial/issues/new) 向作者反馈
-- 欢迎直接提交 pull-request 参与贡献
+- [本书](https://ts.mbear.top/)fork自[该项目](https://ts.xcatliu.com/)，添加部分自己的内容
+- 原作者：[xcatliu](https://github.com/xcatliu/)
 
 ## 为什么要写本书
 
@@ -105,7 +94,7 @@ TypeScript 虽然有[官方手册][Handbook]及其[非官方中文版][中文手
 
 - [下一章：简介](introduction/README.md)
 
-[GitHub]: https://github.com/xcatliu/typescript-tutorial
+[GitHub]: https://github.com/MBearo/typescript-tutorial
 [TypeScript]: http://www.typescriptlang.org/
 [Handbook]: http://www.typescriptlang.org/docs/handbook/basic-types.html
 [中文手册]: https://zhongsp.gitbook.io/typescript-handbook/
