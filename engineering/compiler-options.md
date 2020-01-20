@@ -15,7 +15,7 @@ TypeScript 提供了非常多的编译选项，但是官方文档对每一项的
 
 设置为 `true` 时，js 文件会被 tsc 编译，否则不会。一般在项目中 js, ts 混合开发时需要设置。
 
-[查看示例](https://github.com/xcatliu/typescript-tutorial/tree/master/examples/compiler-options/01-allowJs)
+[查看示例](https://github.com/MBearo/typescript-tutorial/tree/master/examples/compiler-options/01-allowJs)
 
 ```bash
 # 设置为 true 时，编译后的文件包含 foo.js
@@ -65,7 +65,7 @@ declare namespace React {
 }
 ```
 
-此时若我们通过 `import React from 'react'` 来导入 react 则会报错，[查看示例](https://github.com/xcatliu/typescript-tutorial/tree/master/examples/compiler-options/02-allowSyntheticDefaultImports)
+此时若我们通过 `import React from 'react'` 来导入 react 则会报错，[查看示例](https://github.com/MBearo/typescript-tutorial/tree/master/examples/compiler-options/02-allowSyntheticDefaultImports)
 ：
 
 ```ts
